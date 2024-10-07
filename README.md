@@ -60,11 +60,12 @@
 </canvas>
 
 </div>
-<iframe width="560" height="560" 
-	src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1930640486&color=%23ff5500&autoplay=1" title="message player" frameborder="no" loading="lazy" alt="" class="logo circle"></iframe>
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" 
+	src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1930640486&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true">
+	</iframe>
+ <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
 
-</div>
 
 <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5d7517ff7288d5a70b3b64bd" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
 </script>
