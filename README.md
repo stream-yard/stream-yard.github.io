@@ -60,7 +60,10 @@
 </canvas>
 
 </div>
-<iframe width="560" height="560" src="https://www.youtube.com/embed/kdCWQ6epGDQ?si=eBqe_rozRUgcUG_U&autoplay=1" title="YouTube video player" frameborder="0" loading="lazy" alt="" class="logo circle"> </iframe> 
+<iframe width="560" height="560" 
+	src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1930640486&color=%23ff5500&autoplay=1" title="message player" frameborder="no" loading="lazy" alt="" class="logo circle"></iframe>
+
+
 </div>
 
 <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5d7517ff7288d5a70b3b64bd" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
