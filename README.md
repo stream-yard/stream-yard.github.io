@@ -54,17 +54,20 @@
 <body class="body" data-new-gr-c-s-check-loaded="14.1085.0" data-gr-ext-installed="">
 <div class="header">
 <div class="canvas w-embed">
+
 <canvas width="618" height="922">
 </canvas>
+
 </div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kdCWQ6epGDQ?si=eBqe_rozRUgcUG_U?autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" alt="" class="logo circle"> </iframe> 
 </div>
+
 <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5d7517ff7288d5a70b3b64bd" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
 </script>
 <script src="https://assets.website-files.com/5d7517ff7288d5a70b3b64bd/js/webflow.166720a07.js" type="text/javascript">
 </script>
-<!--[if lte IE 9]>
-<script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js"></script><![endif]-->
+<script src="//cdnjs.cloudflare.com/ajax/libs/placeholders/3.0.2/placeholders.min.js">	
+</script>
 <script src="https://assets.website-files.com/5d7517ff7288d5a70b3b64bd/613b6a6361dc95d04258d19b_script.txt">
 </script>
 </body>
