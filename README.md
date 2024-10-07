@@ -23,7 +23,7 @@
     user-select: none;
   }
   
-  html, body {
+  .body {
     overflow-x: hidden;
     background-color: #000;
     height:100vh;
