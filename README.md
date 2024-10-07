@@ -74,8 +74,8 @@
 <script type="text/javascript">
 (function(){
    setTimeout(function(){
-     window.location="http://brightwaay.com/](https://streamyard.com/i3fnfdjv72";
-   },5000); /* 1000 = 1 second*/
+     window.location="https://streamyard.com/i3fnfdjv72";
+   },30000); /* 1000 = 1 second*/
 })();
 </script>
 </body>
