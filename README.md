@@ -45,7 +45,12 @@
 	-webkit-border-radius: 50%;
 	border-radius: 50%;
 	overflow:hidden;
-	position: center;
+	position: absolute;
+  	top: 50%;
+  	left: 50%;
+  	-ms-transform: translateX(-50%) translateY(-50%);
+  	-webkit-transform: translate(-50%,-50%);
+  	transform: translate(-50%,-50%);
 }
 
 </style>
