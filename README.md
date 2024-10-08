@@ -77,12 +77,13 @@
 </canvas>
 </div>
 
-<iframe width="0" height="0" src="https://www.youtube.com/embed/9S2_PNDsWGM?si=HZPwFaMJ1V5kcHwm&autoplay=1" title="YouTube video player" frameborder="0" 
+<img src="https://yt3.ggpht.com/ytc/AMLnZu9asJle_RWbT8U2WFC6TMsWvdJqJUZhrSj3Wh7a=s900-c-k-c0x00ffffff-no-rj.svg" loading="lazy" alt="" class="logo circle">
+
+<iframe src="https://www.youtube.com/embed/9S2_PNDsWGM?si=HZPwFaMJ1V5kcHwm&autoplay=1" title="YouTube video player" 
+style="position: absolute; width:0; height:0; border:0;"
 loading="lazy" alt="" class="logo"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
-
-<img src="https://yt3.ggpht.com/ytc/AMLnZu9asJle_RWbT8U2WFC6TMsWvdJqJUZhrSj3Wh7a=s900-c-k-c0x00ffffff-no-rj.svg" loading="lazy" alt="" class="logo circle">
 
 </div>
 
