@@ -37,10 +37,16 @@
     user-select: none;
   }
   
-  html, body {
+  html {
     overflow-x: hidden;
     background-color: #000;
 
+  } 
+
+.body {
+    overflow-x: hidden;
+    background-color: #000;
+height:100vh;
   } 
 
   canvas {
@@ -78,7 +84,7 @@
 </div>
 
 
-<iframe src="https://www.youtube.com/embed/9S2_PNDsWGM?si=dQbCFibAvKURUBlA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" alt="" class="logo" style="position: absolute; width:0; height:0; border:0;"></iframe>
+<iframe src="https://www.youtube.com/embed/9S2_PNDsWGM?si=dQbCFibAvKURUBlA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy" alt="" class="logo circle" style="position: absolute; width:0; height:0; border:0;"></iframe>
 
 </div>
 
