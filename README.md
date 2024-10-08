@@ -82,6 +82,8 @@ loading="lazy" alt="" class="logo"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
+<img src="https://yt3.ggpht.com/ytc/AMLnZu9asJle_RWbT8U2WFC6TMsWvdJqJUZhrSj3Wh7a=s900-c-k-c0x00ffffff-no-rj.svg" loading="lazy" alt="" class="logo circle">
+
 </div>
 
 <script src="https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=5d7517ff7288d5a70b3b64bd" type="text/javascript" integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0=" crossorigin="anonymous">
