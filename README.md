@@ -83,7 +83,7 @@ loading="lazy" alt="" class="logo"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-<img src="https://assets.website-files.com/5d7517ff7288d5a70b3b64bd/5d7579a6fc69ff23d6df9f3f_Web-Desire-Logo-wei%C3%9F.svg" loading="lazy" alt="" class="logo">
+<img src="https://github.com/is-momin/is-momin.github.io/blob/main/logo-svg.svg" loading="lazy" alt="" class="logo">
 
 </div>
 
