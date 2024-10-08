@@ -77,13 +77,10 @@
 </canvas>
 </div>
 
-<iframe src="https://www.youtube.com/embed/9S2_PNDsWGM?si=HZPwFaMJ1V5kcHwm&autoplay=1" title="YouTube video player" 
-style="position: absolute; width:0; height:0; border:0;"
-loading="lazy" alt="" class="logo"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+<iframe src="https://www.youtube.com/embed/9S2_PNDsWGM?si=HZPwFaMJ1V5kcHwm&autoplay=1" title="YouTube video player" style="position: absolute; width:0; height:0; border:0;" loading="lazy" alt="" class="logo" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-<img src="https://github.com/is-momin/is-momin.github.io/blob/main/logo-svg.svg" loading="lazy" alt="" class="logo">
+<img src="https://github.com/is-momin/is-momin.github.io/blob/main/logo-svg.svg" loading="lazy" alt="" class="logo circle">
 
 </div>
 
