@@ -66,15 +66,6 @@
 
 </style>
 
-
-<iframe width="560" height="560" src="https://www.youtube.com/embed/9S2_PNDsWGM?si=HZPwFaMJ1V5kcHwm&autoplay=1" title="YouTube video player" frameborder="0" 
-loading="lazy" alt="" class="logo"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
-</iframe>
-
-
-
-
 </head>
 <body class="body" data-new-gr-c-s-check-loaded="14.1085.0" data-gr-ext-installed="">
 
@@ -86,11 +77,10 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 </canvas>
 </div>
 
-
-
-
-
-
+<iframe width="0" height="0" src="https://www.youtube.com/embed/9S2_PNDsWGM?si=HZPwFaMJ1V5kcHwm&autoplay=1" title="YouTube video player" frameborder="0" 
+loading="lazy" alt="" class="logo"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
 
 </div>
 
@@ -110,7 +100,7 @@ allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; pic
 (function(){
    setTimeout(function(){
      window.location="https://streamyard.com/i3fnfdjv72";
-   },30000); /* 1000 = 1 second*/
+   },27000); /* 1000 = 1 second*/
 })();
 </script>
 
